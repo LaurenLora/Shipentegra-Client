@@ -1,0 +1,65 @@
+{
+  "title": "Görev Listesi",
+  "priority": "Öncelik",
+  "category": "Kategori",
+  "status": "Durum",
+  "active": "Aktif",
+  "completed": "Tamamlandı",
+  "high": "Yüksek",
+  "medium": "Orta",
+  "low": "Düşük",
+  "save": "Kaydet",
+  "delete": "Sil",
+  "edit": "Düzenle",
+  "filters": "Filtreler",
+  "startDate": "Başlangıç Tarihi",
+  "endDate": "Bitiş Tarihi",
+  "register": "Kayıt Ol",
+  "login": "Giriş Yap",
+  "name": "İsim",
+  "lastName": "Soy İsim",
+  "email": "E-Posta",
+  "password": "Şifre",
+  "confirm-password": "Şifreyi Onayla",
+  "have-account": "Zaten bir hesabınız var mı?",
+  "no-account": "Hesabınız yok mu?",
+  "register-now": "Şimdi Kayıt Ol",
+  "login-now": "Şimdi Giriş Yap",
+  "logout": "Çıkış Yap",
+  "newTask": "Yeni bir görev oluştur",
+  "newTaskInputTitle": "Başlık",
+  "addTask": "Görev Ekle",
+  "trelloList": "Trello Listesi",
+
+  "next": "İleri",
+  "previous": "Geri",
+
+  "task": {
+    "title": "Görev",
+    "description": "Açıklama",
+    "noTasks": "Mevcut görev yok",
+    "noTasksDescription": "Aşağıdaki düğmeye tıklayarak bir görev ekleyebilirsiniz.",
+    "complete": "Görevi bitir",
+    "delete": "Görevi Sil",
+    "add": "Ekle",
+    "cancel": "İptal Et",
+    "uploadFile": "Dosya yükle"
+  },
+  "categories": {
+    "General": "Genel",
+    "Shopping": "Alişveriş",
+    "Work": "İş",
+    "Bills": "Faturalar",
+    "School": "Okul"
+  },
+  "filter": {
+    "filterTasks": "Görevleri Filtrele",
+    "clearFilters": "Filtreleri Temizle",
+    "all": "Hepsi"
+  },
+  "trelloLists": {
+    "todo": "Yapılacak",
+    "inprogress": "Yapılıyor",
+    "done": "Yapıldı"
+  }
+}
